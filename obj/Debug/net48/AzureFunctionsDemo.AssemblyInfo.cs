@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureFunctionsDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f3e7c386c31a77023bbb257f8ad44ed8ad3cdee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b47bc3e9799035be4d9e5cd64237e9b3396591d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureFunctionsDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureFunctionsDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

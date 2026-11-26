@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = AzureFunctionsDemo
-build_property.ProjectDir = C:\Users\y.elkharmoudi.cons\Desktop\Yassine\azureFunctions\Az-functions\
+build_property.ProjectDir = C:\Users\y.elkharmoudi.cons\Desktop\Yassine\azureFunctions\Az-functions-backup\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
